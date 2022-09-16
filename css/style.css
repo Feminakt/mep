@@ -273,6 +273,9 @@
 
 
 /*** Categories & Courses ***/
+.course-item{
+    height: 400px;
+}
 .category img,
 .course-item img {
     transition: .5s;
