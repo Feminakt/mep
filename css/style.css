@@ -270,11 +270,13 @@
 .service-item:hover * {
     color: var(--light) !important;
 }
-
+.justify-content-right{
+    justify-content: right!important;
+}
 
 /*** Categories & Courses ***/
 .course-item{
-    height: 400px;
+    height: 463px;
 }
 .category img,
 .course-item img {
@@ -438,3 +440,17 @@
 .text-blue{
     color: #06BBCC !important;
 }
+
+
+
+
+
+
+
+
+
+
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#more4 {display: none;}
